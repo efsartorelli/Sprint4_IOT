@@ -96,7 +96,7 @@ Challenge sprint iot.vbs
 **Clique em `iniciar programa` para dar inicio**
 - Botão `ver registros anterioes` para ver quais rostos foram registrados.
 - botão `iniciar programa` para realizar a análise facial.
-- Clique `iniciar programa` para fechar.
+- Clique `ESC` para fechar.
 
 
 **Clique em `Mandar informações para banco de dados` para dar inicio**
