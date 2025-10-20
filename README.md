@@ -96,7 +96,7 @@ Challenge sprint iot.vbs
 - Clique em `iniciar programa` para iniciar a verificação facial.
 - Clique `ESC` para fechar.
 
-**clique em `Mandar informações para banco de dados` para dar inicio.**
+**clique em `Mandar informações para banco de dados`.**
 - Todos os registros realizados serão enviados para o banco.
 
 ---
