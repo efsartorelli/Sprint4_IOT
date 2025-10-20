@@ -94,12 +94,13 @@ Dê duplo clique em:
 Challenge sprint iot.vbs
 ```
 **Clique em `iniciar programa` para dar inicio**
-    - Botão `ver registros anterioes` para ver quais rostos foram registrados.
-    - botão `iniciar programa` para realizar a análise facial.
+- Botão `ver registros anterioes` para ver quais rostos foram registrados.
+- botão `iniciar programa` para realizar a análise facial.
+- Clique `iniciar programa` para fechar.
 
 
 **Clique em `Mandar informações para banco de dados` para dar inicio**
-    - Todo o registro será enviado para o banco de dados.
+- Todo o registro será enviado para o banco de dados.
   
 
 ## 🧪 Como funciona o sistema
